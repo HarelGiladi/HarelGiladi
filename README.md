@@ -1,14 +1,13 @@
 <h1 align="center">Hi  there👋, I'm Harel Giladi</h1>
 <h3 align="center">second year student at Computer Scinece & Math at Ariel University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarelGiladi&label=Profile%20views&color=0e75b6&style=flat" alt="HarelGiladi" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarelGiladi&label=Visitors%20views&color=0e75b6&style=flat" alt="HarelGiladi" /> </p>
-
 
 - 🌱 I’m currently learning *Ariel University*
 
 - 📫 How to reach me *harel495@gmail.com*
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarelGiladi&label=Profile%20views&color=0e75b6&style=flat" alt="HarelGiladi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarelGiladi&label=Visitors%20views&color=0e75b6&style=flat" alt="HarelGiladi" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
